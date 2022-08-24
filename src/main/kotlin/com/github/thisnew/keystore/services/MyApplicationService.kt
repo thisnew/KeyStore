@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.thisnew.keystore.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.thisnew.keystore.MyBundle
 
 class MyApplicationService {
 
